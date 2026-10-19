@@ -1,0 +1,13 @@
+
+{
+  "name": "zamtel-loans-zambia",
+  "version": "1.0.0",
+  "description": "Zambia loan application interface prototype",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
